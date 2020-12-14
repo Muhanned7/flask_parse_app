@@ -1,0 +1,7 @@
+{%block title %} Hours spent {%endblock%}
+
+{% block main %}
+
+<p> hours spent : {{a}} </p>
+
+{% endblock %}

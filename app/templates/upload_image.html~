@@ -1,0 +1,22 @@
+<html>
+	<title>Home</title>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+
+					<h1>Upload file</h1>
+					<hr>
+
+					<form action='/upload-file' method='POST'enctype='multipart/form-data'>
+						<div class='form-froup'>
+							<label>Select  file</label>
+							<div class='custom-file'>
+								<input type="file" class ="custom-file-input" name="text" id = "file">
+								<label class="custom-file-label" for ="file">Select file..</label>
+								</div>
+							</div>
+				</div>
+			</div>
+		</div>
+

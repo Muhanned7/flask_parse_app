@@ -1,0 +1,76 @@
+Excluding Time Period:
+
+M  1:30pm - 2:20pm , 6:00pm -7:15pm
+T  2:00pm - 3:15pm
+W  1:30pm - 2:20pm , 6:00pm - 7:15pm
+Th 2:00pm - 3:15pm
+F  1:30pm - 2:20pm
+
+Time Log:
+11/22/2020: 11:00am - 02:00pm worked on project
+11/23/2020: 07:15pm - 12:00pm read chapter 9
+11/25/2020: 08:00pm - 12:00pm worked on cloud computing
+11/26/2020: 09:00pm - 12:00pm read chapter 5.
+11/15/2020: 11:00am - 02:00pm worked on project
+11/16/2020: 07:00am - 11:00pm practised python and read chapter 8
+11/16/2020: 08:00pm - 10:00pm worked on cloud computing and datat storage
+11/17/2020: 08:00am - 10:00pm continued learning about cloud computing 
+11/08/2020: 11:00am - 01:00pm practised pyhthon
+11/08/2020: 09:00am - 11:00am read chapter 8.
+11/08/2020: 03:00pm - 05:00pm improved parser file
+11/09/2020: 10:00am - 01:00pm worked on AWS
+11/10/2020: 11:00am - 01:00pm read chapter 8
+11/11/2020: 07:15pm - 10:00pm worked on project
+11/01/2020: 11:00am - 01:00pm practised excercise AWS
+11/01/2020: 01:20pm - 02:30pm practised AWS for the project
+11/02/2020: 09:45am - 12:30pm python practise
+11/02/2020: 10:00pm - 12:00pm practised python and implemented code on AWS
+11/06/2020: 11:00pm - 12:00pm tried to complete the project on AWS.
+10/25/2020: 11:00am - 01:30pm studied about AWS.
+10/25/2020: 05:30am - 07:00pm started parsing file programe
+10/26/2020: 10:00am - 11:00pm read chapter 5 again
+10/27/2020: 07:00pm - 09:00pm reviwed chapter 6.
+10/29/2020: 08:30pm - 11:30pm learned about aws. 
+10/30/2020: 10:00pm - 11:00pm planned project requirement for AWS.
+
+10/18/2020: 11:00am - 01:15pm studies about AWS.
+10/18/2020: 01:30pm - 05:00pm programming practice python
+10/20/2020: 05:00pm - 06:30pm programming practice pyhton
+10/20/2020: 07:00pm - 10:00pm read chapter 5
+10/21/2020: 08:00pm - 10:00pm read chapter 6
+10/22/2020: 09:00pm - 10:00pm reviewed AWS video lecture
+
+10/11/2020: 05:00am - 10:00am studied about AWS. 
+10/12/2020: 08:00am - 10:00am practiced python skills.
+10/13/2020: 09:00pm - 11:00pm studies chapter 6.
+10/14/2020: 05:00pm - 07:00pm looked at the project to get a view and understading og what to do.
+
+10/04/2020: 10:00pm - 11:00pm looked at the project requirements.
+10/04/2020: 06:00am - 09:00pm lookig into cloud platform aws finding and working on mateirials
+10/05/2020: 05:00pm - 07:00pm practised python to work on project
+
+09/27/2020: 10:00pm - 11:00pm reviewed python language.
+09/28/2020: 10:00am - 01:00pm practised textbook problems from chapter 5
+09/29/2020: 05:00pm - 07:00pm read chapter 6
+09/30/2020: 07:15pm - 10:00pm reviewed chapter 7 notes
+10/01/2020: 10:00am - 02:00pm looked into cloud computing technology AWS.
+
+09/27/2020: 11:00am - 03:00pm - READ CHAPTER 3,4,5
+09/27/2020: 05:00pm - 07:00pm - PRACTICED PROGRAMMES.
+09/28/2020: 04:00pm - 07:00pm - EXCERCISED PROBLEMS IN CHAPTER 3.
+
+09/14/2020: 10:00am - 1:00pm reviewd programming skills
+09/15/2020: 05:00pm - 7:00pm read chapter 1
+09/16/2020: 03:00pm - 5:00pm solved chapter 1 excercise questions.
+
+09/07/2020: 03:00pm - 6:00pm reveiwed lecture
+09/08/2020: 10:00pm - 2:00pm worked on programming skills.
+09/09/2020: 09:00pm - 1:00pm worked on text book questions
+
+08/31/2020: 02:30pm - 6:00pm reviewed chapter one section 1.1 to 1.3
+09/01/2020: 04:00pm - 6:00pm reveiwed prograaming skills(python).
+09/02/2020: 05:00pm - 8:00pm learned the basic architecture of a computer. (i beleive it will help me understand the subject better. 
+
+08/23/2020: 10:00pm - 11:00pm reviewed python language.
+08/26/2020: 10:00pm - 11:00pm reviwed syllabus and read introductory chapter.
+
