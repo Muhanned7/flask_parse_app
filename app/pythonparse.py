@@ -5,7 +5,7 @@ Created on Fri Oct 30 22:24:52 2020
 @author: student
 """
 from flask import render_template
-from app import app
+from flask_parse_app import app
 import re
 import datetime
 from datetime import timedelta
