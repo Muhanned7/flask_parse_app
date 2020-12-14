@@ -1,7 +1,7 @@
 from flask import Flask,render_template,request,redirect,url_for,send_from_directory,abort
-from app import pythonparse
+from flask_parse_app import pythonparse
 from pythonparse import pythonparse
-from app import app
+from flask_parse_app import app
 import os
 
 @app.route('/')
