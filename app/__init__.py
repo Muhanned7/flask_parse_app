@@ -4,7 +4,7 @@ from flask import Flask, render_template,request,redirect,url_for,send_from_dire
 app = Flask(__name__)
 
 
-from app import app
+from flask_parse_app import app
 from app import views
 import os
 import re
